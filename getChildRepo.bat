@@ -1,1 +1,1 @@
-git clone git@github.com:ArtManyak/ChildRepo.git
+git clone https://github.com/ArtManyak/ChildRepo.git
